@@ -1,0 +1,114 @@
+html {
+    scroll-padding-top: 250px;
+}
+#ri, #ee, #aie, #tk{
+    display: inline-table;
+    padding-right: 5%;
+}
+#bsc_1r, #bsc_2r{
+    display: inline-table;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+#bsc_1e, #bsc_2e, #bsc_3e{
+    display: inline-table;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+#bsc_1t, #bsc_2t, #bsc_3t{
+    display: inline-table;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+#bsc_1a, #bsc_2a, #bsc_3a{
+    display: inline-table;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+#bsc_3r{
+    display: inline-table;
+    padding-right: 30%;
+    padding-left: 5%;
+}
+#msc_1r, #msc_2r{
+    display: inline-table;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+#msc_1e, #msc_2e{
+    display: inline-table;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+#msc_1a, #msc_2a{
+    display: inline-table;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+#msc_1t, #msc_2t{
+    display: inline-table;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+#rs_1r{
+    display: inline-table;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+#rs_2r{
+    display: inline-table;
+    padding-right: 50%;
+    padding-left: 5%;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 200px);
+    padding: 10px;
+}
+.grid-item, .otkazan, .izborni{
+    background-color:white;
+    border: 1px solid darkslategray;
+    padding: 20px;
+    font-size: 15px;
+    text-align: center;
+}
+#meni{
+    position:fixed;
+    top: 0%;
+    width: 100%;
+    overflow: hidden;
+    background-color:cadetblue;
+    border-bottom-color: darkslategray;
+    border-bottom-width: 5px;
+    border-bottom-style: double;
+}
+#meni a {
+    display: block;
+    color: #030303;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+#meni a:hover {
+    background:rgba(164, 193, 248, 0.966);
+    color: black;
+}
+#ri_bsc1{
+    margin-top: 10%;
+}
+p{
+    padding-left: 5%;
+    font-weight: bold;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.izborni{
+    background-color: powderblue;
+}
+.otkazan{
+    background-color: gray;
+}

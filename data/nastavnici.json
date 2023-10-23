@@ -1,0 +1,22 @@
+[
+    {
+        "nastavnik": {
+            "username": "Nejra",
+            "password_hash": "$2b$10$rrEe3nMwe/D1ac0DusIhLOlinQg1tDA1Vh9hsoVtOlhXy3/RrKJGS"
+        },
+        "predmeti": [
+            "PREDMET1",
+            "PREDMET2",
+            "PREDMET3"
+        ]
+    },
+    {
+        "nastavnik": {
+            "username": "Neko",
+            "password_hash": "$2b$10$stRVVWYVZkge/FPJaJ9rIOsx1bZoORgaJKhzYPxrBeEzFCjN9lyj2"
+        },
+        "predmeti": [
+            "PREDMET1"
+        ]
+    }
+]

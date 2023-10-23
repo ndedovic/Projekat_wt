@@ -1,0 +1,32 @@
+li{
+    display: inline;
+    color: #030303;
+    text-decoration: none;
+    font-weight: bold;
+    padding-right: 10%;
+    padding-left: 5%;
+}
+li:hover {
+    background:rgba(164, 193, 248, 0.966);
+    color: black;
+}
+body{
+    background: beige;
+    font-family: 'Muli', sans-serif;
+}
+#meni{
+    position:fixed;
+    top: 0%;
+    width: 100%;
+    overflow: hidden;
+    background-color:cadetblue;
+    border-bottom-color: darkslategray;
+    border-bottom-width: 5px;
+    border-bottom-style: double;
+}
+#logout{
+    margin-left: 90%;
+    margin-top: 5%;
+    height: 40px;
+    width: 100px;
+}

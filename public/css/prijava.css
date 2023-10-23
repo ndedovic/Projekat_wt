@@ -1,0 +1,35 @@
+body{
+    background: beige;
+    font-family: 'Muli', sans-serif;
+    
+  }
+input{
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 5px;
+    border: 2px solid darkslategray;
+    margin-right: 100%;
+}
+label{
+    font-size: 20px;
+    margin-left: 1%;
+}
+h1{
+    color: rgb(74, 77, 82);
+    padding-bottom: 2rem;
+    font-weight: bold;
+    padding: 12px 20px;
+}
+button{
+    height: 40px;
+    width: 100px;
+    padding: 12px 20px;
+    margin-left: 0.5%;
+    background-color: rgb(74, 77, 82);
+}
+#poruka1{
+    color: green;
+}
+#poruka2{
+    color:red;
+}
